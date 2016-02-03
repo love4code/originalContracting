@@ -1,0 +1,65 @@
+/*
+ * @package starter-grove
+ *
+ * ============================
+ * sgrove ADMIN STYLES
+ * ============================
+ * *
+ * */
+.sgrove-general-form,
+.sgrove-sidebar-preview{
+    display: inline-block;
+    float: left;
+}
+
+.sgrove-sidebar-preview{
+    width:200px;
+    background-color: #1F1F1F;
+    padding: 20px;
+    text-align: center;
+    margin-right: 20px;
+}
+.sgrove-sidebar{
+    display: block;
+    text-align: center;
+
+}
+
+h1.sgrove-username,
+h2.sgrove-description{
+    font-weight: 100;
+    color: #fff;
+
+}
+
+h1.sgrove-username{
+    font-size: 24px;
+    margin: 0 0 10px;
+}
+h2.sgrove-description{
+    font-size:13px;
+    margin: 0 0 20px;
+}
+
+.icons-wrapper{
+
+}
+
+.image-container{
+    display: block;
+    text-align: center;
+    overflow: hidden;
+    width: 100%;
+}
+
+.profile-picture{
+    width: 122px;
+    height: 122px;
+    overflow: hidden;
+    border-radius: 50%;
+    margin: 20px auto;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+

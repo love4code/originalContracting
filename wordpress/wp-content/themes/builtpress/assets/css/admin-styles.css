@@ -1,0 +1,8 @@
+#redux-header .rAds,
+#redux-header .redux-dev-mode-notice-container,
+#redux_rAds,
+.redux-messageredux-notice {
+	display: none !important;
+	height: 0 !important;
+	overflow: hidden !important;
+}

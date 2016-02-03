@@ -1,0 +1,1410 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: BuiltPress\n"
+"POT-Creation-Date: 2015-12-24 09:52+0700\n"
+"PO-Revision-Date: 2015-12-24 09:52+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:12
+msgid "Apologies, but the page you requested could not be found."
+msgstr ""
+
+#: 404.php:14
+msgid "Back to Homepage"
+msgstr ""
+
+#: comments.php:12
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:21 comments.php:52
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:24 comments.php:55
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:28 comments.php:59
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:75
+msgid "Comments are closed."
+msgstr ""
+
+#: library/import/import.php:184
+msgid "Please select data to import."
+msgstr ""
+
+#: library/import/import.php:195
+msgid "All done. Have fun!"
+msgstr ""
+
+#: library/st_functions.php:28 library/st_options.php:766
+msgid "Primary Menu"
+msgstr ""
+
+#: library/st_functions.php:29
+msgid "Footer Menu"
+msgstr ""
+
+#: library/st_functions.php:48 library/st_options.php:946
+msgid "Sidebar"
+msgstr ""
+
+#: library/st_functions.php:49
+msgid "Page Sidebar"
+msgstr ""
+
+#: library/st_functions.php:50
+msgid "Shop Sidebar"
+msgstr ""
+
+#: library/st_functions.php:51
+msgid "Footer Column 1"
+msgstr ""
+
+#: library/st_functions.php:52
+msgid "Footer Column 2"
+msgstr ""
+
+#: library/st_functions.php:53
+msgid "Footer Column 3"
+msgstr ""
+
+#: library/st_functions.php:54
+msgid "Footer Column 4"
+msgstr ""
+
+#: library/st_functions.php:389
+msgid "Home"
+msgstr ""
+
+#: library/st_functions.php:428
+msgid "Search:"
+msgstr ""
+
+#: library/st_functions.php:475 parts/header-pagetitle.php:22
+msgid "Page Not Found"
+msgstr ""
+
+#: library/st_functions.php:523
+msgid "All"
+msgstr ""
+
+#: library/st_functions.php:711 searchform.php:2
+msgid "Search..."
+msgstr ""
+
+#: library/st_options.php:38 library/st_options.php:39
+msgid "Theme Options"
+msgstr ""
+
+#: library/st_options.php:161
+msgid "General"
+msgstr ""
+
+#: library/st_options.php:171
+msgid "Custom Favicon"
+msgstr ""
+
+#: library/st_options.php:172
+msgid "Upload your favicon file here."
+msgstr ""
+
+#: library/st_options.php:179
+msgid "Custom Logo"
+msgstr ""
+
+#: library/st_options.php:180 library/st_options.php:188
+msgid "Upload your logo file here."
+msgstr ""
+
+#: library/st_options.php:187
+msgid "Custom Logo Transparent"
+msgstr ""
+
+#: library/st_options.php:197
+msgid "Layout Theme"
+msgstr ""
+
+#: library/st_options.php:198
+msgid "Only available for header style \"horizontal\"."
+msgstr ""
+
+#: library/st_options.php:205
+msgid "Header"
+msgstr ""
+
+#: library/st_options.php:211 library/st_options.php:493
+msgid "Header Area"
+msgstr ""
+
+#: library/st_options.php:222
+msgid "Header Style"
+msgstr ""
+
+#: library/st_options.php:230
+msgid "Header Transparent"
+msgstr ""
+
+#: library/st_options.php:231
+msgid "Only available on header style \"default\"."
+msgstr ""
+
+#: library/st_options.php:237
+msgid "Header Sticky"
+msgstr ""
+
+#: library/st_options.php:257
+msgid "Header Info"
+msgstr ""
+
+#: library/st_options.php:265
+msgid "Header Button Link"
+msgstr ""
+
+#: library/st_options.php:271
+msgid "Header Button Value"
+msgstr ""
+
+#: library/st_options.php:278
+msgid "Search Form"
+msgstr ""
+
+#: library/st_options.php:279
+msgid "Enable / disable search form."
+msgstr ""
+
+#: library/st_options.php:286 library/st_options.php:528
+msgid "Top Bar Area"
+msgstr ""
+
+#: library/st_options.php:294
+msgid "Top Bar"
+msgstr ""
+
+#: library/st_options.php:295
+msgid "Enable / disable top bar area."
+msgstr ""
+
+#: library/st_options.php:310
+msgid "Top Bar Info"
+msgstr ""
+
+#: library/st_options.php:317 library/widgets/social.php:9
+msgid "Social Icons"
+msgstr ""
+
+#: library/st_options.php:318
+msgid "Enable / disable social icon."
+msgstr ""
+
+#: library/st_options.php:325 library/widgets/social.php:31
+msgid "Social Icon?"
+msgstr ""
+
+#: library/st_options.php:326
+msgid ""
+"Which icon should display? the social icon url will be take from Social "
+"Media setting tab."
+msgstr ""
+
+#: library/st_options.php:333
+msgid "Page Title"
+msgstr ""
+
+#: library/st_options.php:342
+msgid "Padding Top"
+msgstr ""
+
+#: library/st_options.php:343 library/st_options.php:350
+msgid "Set a padding for title area in (px)."
+msgstr ""
+
+#: library/st_options.php:349
+msgid "Padding Bottom"
+msgstr ""
+
+#: library/st_options.php:359
+msgid "Title Align"
+msgstr ""
+
+#: library/st_options.php:366
+msgid "Breadcrumb"
+msgstr ""
+
+#: library/st_options.php:367
+msgid "Enable / disable breadcrumb."
+msgstr ""
+
+#: library/st_options.php:374
+msgid "Footer"
+msgstr ""
+
+#: library/st_options.php:380
+msgid "Widget Area"
+msgstr ""
+
+#: library/st_options.php:388
+msgid "Widget Enable"
+msgstr ""
+
+#: library/st_options.php:389
+msgid "Enable / disable footer widget."
+msgstr ""
+
+#: library/st_options.php:400
+msgid "Widget Column"
+msgstr ""
+
+#: library/st_options.php:416
+msgid "Widget Custom Column Class"
+msgstr ""
+
+#: library/st_options.php:417
+msgid "Optional class for footer column widget"
+msgstr ""
+
+#: library/st_options.php:423 library/st_options.php:684
+msgid "Copyright Area"
+msgstr ""
+
+#: library/st_options.php:431
+msgid "Copyright Enable"
+msgstr ""
+
+#: library/st_options.php:432
+msgid "Enable / disable footer copyright."
+msgstr ""
+
+#: library/st_options.php:438
+msgid "Copyright Menu"
+msgstr ""
+
+#: library/st_options.php:445
+msgid "Copyright Text"
+msgstr ""
+
+#: library/st_options.php:453
+msgid "Styling"
+msgstr ""
+
+#: library/st_options.php:459
+msgid "Layout"
+msgstr ""
+
+#: library/st_options.php:468
+msgid "Color Scheme"
+msgstr ""
+
+#: library/st_options.php:469
+msgid "Specify the color scheme."
+msgstr ""
+
+#: library/st_options.php:477
+msgid "Body Background"
+msgstr ""
+
+#: library/st_options.php:478 library/st_options.php:591
+#: library/st_options.php:642
+msgid "Background with image, color, etc."
+msgstr ""
+
+#: library/st_options.php:486
+msgid "Page Background Color"
+msgstr ""
+
+#: library/st_options.php:503 library/st_options.php:538
+#: library/st_options.php:694
+msgid "Background Color"
+msgstr ""
+
+#: library/st_options.php:512 library/st_options.php:547
+msgid "Border Color"
+msgstr ""
+
+#: library/st_options.php:521 library/st_options.php:556
+#: library/st_options.php:659 library/st_options.php:703
+msgid "Text Color"
+msgstr ""
+
+#: library/st_options.php:565 library/st_options.php:668
+msgid "Link Color"
+msgstr ""
+
+#: library/st_options.php:574 library/st_options.php:677
+#: library/st_options.php:712
+msgid "Link Hover Color"
+msgstr ""
+
+#: library/st_options.php:581
+msgid "Title Area"
+msgstr ""
+
+#: library/st_options.php:590 library/st_options.php:641
+msgid "Background"
+msgstr ""
+
+#: library/st_options.php:597
+msgid "Parallax Image"
+msgstr ""
+
+#: library/st_options.php:598
+msgid "Enable / disable parallax image."
+msgstr ""
+
+#: library/st_options.php:606 library/st_options.php:650
+msgid "Title Color"
+msgstr ""
+
+#: library/st_options.php:615
+msgid "Sub Title Color"
+msgstr ""
+
+#: library/st_options.php:624
+msgid "Breadcrumb Color"
+msgstr ""
+
+#: library/st_options.php:631
+msgid "Footer Area"
+msgstr ""
+
+#: library/st_options.php:720
+msgid "Typography"
+msgstr ""
+
+#: library/st_options.php:744
+msgid "Body"
+msgstr ""
+
+#: library/st_options.php:745
+msgid "Select custom font for your main body text."
+msgstr ""
+
+#: library/st_options.php:767
+msgid "Select custom font for primary menu."
+msgstr ""
+
+#: library/st_options.php:788 library/st_visualcomposer.php:206
+msgid "Heading"
+msgstr ""
+
+#: library/st_options.php:789
+msgid "Select custom font for headings."
+msgstr ""
+
+#: library/st_options.php:796
+msgid "Posts"
+msgstr ""
+
+#: library/st_options.php:809
+msgid "Post Layout"
+msgstr ""
+
+#: library/st_options.php:810
+msgid "This layout is used while browsing post listings & single post."
+msgstr ""
+
+#: library/st_options.php:815
+msgid "Single Post"
+msgstr ""
+
+#: library/st_options.php:823
+msgid "Blog Page Title"
+msgstr ""
+
+#: library/st_options.php:824
+msgid "Enter your page title in single post."
+msgstr ""
+
+#: library/st_options.php:830
+msgid "Post TagsCloud"
+msgstr ""
+
+#: library/st_options.php:831
+msgid "Enable / disable tagscloud."
+msgstr ""
+
+#: library/st_options.php:837
+msgid "Author Info"
+msgstr ""
+
+#: library/st_options.php:838
+msgid "Enable / disable author info."
+msgstr ""
+
+#: library/st_options.php:850
+msgid "Pages"
+msgstr ""
+
+#: library/st_options.php:860
+msgid "Portfolios Page"
+msgstr ""
+
+#: library/st_options.php:867
+msgid "Services Page"
+msgstr ""
+
+#: library/st_options.php:874
+msgid "WooCommerce"
+msgstr ""
+
+#: library/st_options.php:887
+msgid "WooCommerce Layout"
+msgstr ""
+
+#: library/st_options.php:888
+msgid "This layout is used while browsing woocommerce pages."
+msgstr ""
+
+#: library/st_options.php:894
+msgid "Display Per Page"
+msgstr ""
+
+#: library/st_options.php:902
+msgid "Social Media"
+msgstr ""
+
+#: library/st_options.php:904
+msgid ""
+"Enter social url here and then active them in footer or header options. "
+"Please add full URLs include \"http://\"."
+msgstr ""
+
+#: library/st_options.php:912
+msgid "Social Media URL"
+msgstr ""
+
+#: library/st_options.php:920
+msgid "Custom Code"
+msgstr ""
+
+#: library/st_options.php:929
+msgid "JS Code"
+msgstr ""
+
+#: library/st_options.php:930
+msgid ""
+"Paste your Google Analytics (or other) script code here. This will be added "
+"into the footer template of your theme."
+msgstr ""
+
+#: library/st_options.php:936
+msgid "CSS Code"
+msgstr ""
+
+#: library/st_options.php:937
+msgid "Paste your custom CSS code here."
+msgstr ""
+
+#: library/st_options.php:954
+msgid "Sidebar Widget"
+msgstr ""
+
+#: library/st_options.php:955
+msgid "Custom page sidebar"
+msgstr ""
+
+#: library/st_options.php:962
+msgid "One Click Update"
+msgstr ""
+
+#: library/st_options.php:964
+msgid ""
+"Let us notify you when new versions of this theme are live on ThemeForest! "
+"Update with just one button click and forget about manual updates!<br> If "
+"you have any troubles while using auto update ( It is likely to be a "
+"permissions issue ) then you may want to manually update the theme as normal."
+msgstr ""
+
+#: library/st_options.php:971
+msgid "ThemeForest Username"
+msgstr ""
+
+#: library/st_options.php:972
+msgid ""
+"Enter here your ThemeForest (or Envato) username account (i.e. SliceTheme)."
+msgstr ""
+
+#: library/st_options.php:978
+msgid "ThemeForest Secret API Key"
+msgstr ""
+
+#: library/st_options.php:979
+msgid ""
+"Enter here the secret api key you have created on ThemeForest. You can "
+"create a new one in the Settings > API Keys section of your profile."
+msgstr ""
+
+#: library/st_visualcomposer.php:109
+msgid "Font Color"
+msgstr ""
+
+#: library/st_visualcomposer.php:118
+msgid "Remove Auto Padding Top"
+msgstr ""
+
+#: library/st_visualcomposer.php:124
+msgid "Remove auto padding top for first row only"
+msgstr ""
+
+#: library/st_visualcomposer.php:130
+msgid "Full Width Container"
+msgstr ""
+
+#: library/st_visualcomposer.php:143
+msgid "Video Background"
+msgstr ""
+
+#: library/st_visualcomposer.php:155
+msgid "Video Background Overlay"
+msgstr ""
+
+#: library/st_visualcomposer.php:165
+msgid "Video mp4 URL"
+msgstr ""
+
+#: library/st_visualcomposer.php:175
+msgid "Video webm URL"
+msgstr ""
+
+#: library/st_visualcomposer.php:185
+msgid "Video ogg URL"
+msgstr ""
+
+#: library/st_visualcomposer.php:195 library/st_visualcomposer.php:1030
+#: library/st_visualcomposer.php:1080 library/st_visualcomposer.php:1153
+msgid "CSS Animation"
+msgstr ""
+
+#: library/st_visualcomposer.php:215
+msgid "Align"
+msgstr ""
+
+#: library/st_visualcomposer.php:228 library/st_visualcomposer.php:440
+#: library/st_visualcomposer.php:561 library/st_visualcomposer.php:613
+#: library/st_visualcomposer.php:739 library/widgets/contact.php:20
+#: library/widgets/posts.php:20 library/widgets/services.php:20
+#: library/widgets/social.php:26
+msgid "Title"
+msgstr ""
+
+#: library/st_visualcomposer.php:237
+msgid "Description"
+msgstr ""
+
+#: library/st_visualcomposer.php:250
+msgid "Button"
+msgstr ""
+
+#: library/st_visualcomposer.php:259 library/st_visualcomposer.php:324
+#: library/st_visualcomposer.php:687 library/st_visualcomposer.php:827
+#: library/st_visualcomposer.php:927
+msgid "Style"
+msgstr ""
+
+#: library/st_visualcomposer.php:271
+msgid "Size"
+msgstr ""
+
+#: library/st_visualcomposer.php:284 library/st_visualcomposer.php:712
+msgid "Icon Font"
+msgstr ""
+
+#: library/st_visualcomposer.php:293 library/st_visualcomposer.php:457
+#: library/st_visualcomposer.php:657 library/st_visualcomposer.php:903
+#: library/st_visualcomposer.php:979
+msgid "Link Label"
+msgstr ""
+
+#: library/st_visualcomposer.php:302 library/st_visualcomposer.php:466
+#: library/st_visualcomposer.php:579 library/st_visualcomposer.php:665
+msgid "Link URL"
+msgstr ""
+
+#: library/st_visualcomposer.php:315
+msgid "Icon Box"
+msgstr ""
+
+#: library/st_visualcomposer.php:337 library/st_visualcomposer.php:699
+msgid "Icon Position"
+msgstr ""
+
+#: library/st_visualcomposer.php:351
+msgid "Icon library"
+msgstr ""
+
+#: library/st_visualcomposer.php:353
+msgid "Font Awesome"
+msgstr ""
+
+#: library/st_visualcomposer.php:354
+msgid "Open Iconic"
+msgstr ""
+
+#: library/st_visualcomposer.php:355
+msgid "Typicons"
+msgstr ""
+
+#: library/st_visualcomposer.php:356
+msgid "Entypo"
+msgstr ""
+
+#: library/st_visualcomposer.php:357
+msgid "Linecons"
+msgstr ""
+
+#: library/st_visualcomposer.php:360
+msgid "Select icon library."
+msgstr ""
+
+#: library/st_visualcomposer.php:364 library/st_visualcomposer.php:379
+#: library/st_visualcomposer.php:394 library/st_visualcomposer.php:409
+#: library/st_visualcomposer.php:423
+msgid "Icon"
+msgstr ""
+
+#: library/st_visualcomposer.php:375 library/st_visualcomposer.php:390
+#: library/st_visualcomposer.php:405 library/st_visualcomposer.php:434
+msgid "Select icon from library."
+msgstr ""
+
+#: library/st_visualcomposer.php:449 library/st_visualcomposer.php:649
+msgid "Content"
+msgstr ""
+
+#: library/st_visualcomposer.php:474
+msgid "Hover Color"
+msgstr ""
+
+#: library/st_visualcomposer.php:483
+msgid "Hover Background Color"
+msgstr ""
+
+#: library/st_visualcomposer.php:497
+msgid "Meta Box"
+msgstr ""
+
+#: library/st_visualcomposer.php:505
+msgid "Meta Field"
+msgstr ""
+
+#: library/st_visualcomposer.php:510
+msgid "Label 1"
+msgstr ""
+
+#: library/st_visualcomposer.php:514
+msgid "Label 2"
+msgstr ""
+
+#: library/st_visualcomposer.php:521
+msgid "Label"
+msgstr ""
+
+#: library/st_visualcomposer.php:528
+msgid "Value"
+msgstr ""
+
+#: library/st_visualcomposer.php:544
+msgid "Promo Box"
+msgstr ""
+
+#: library/st_visualcomposer.php:553
+msgid "Image"
+msgstr ""
+
+#: library/st_visualcomposer.php:570
+msgid "Sub Title"
+msgstr ""
+
+#: library/st_visualcomposer.php:592
+msgid "Pricing Box"
+msgstr ""
+
+#: library/st_visualcomposer.php:601
+msgid "Featured"
+msgstr ""
+
+#: library/st_visualcomposer.php:622
+msgid "Price"
+msgstr ""
+
+#: library/st_visualcomposer.php:631
+msgid "Currency"
+msgstr ""
+
+#: library/st_visualcomposer.php:640
+msgid "Note"
+msgstr ""
+
+#: library/st_visualcomposer.php:678
+msgid "Counter"
+msgstr ""
+
+#: library/st_visualcomposer.php:722
+msgid "Color"
+msgstr ""
+
+#: library/st_visualcomposer.php:730
+msgid "Number"
+msgstr ""
+
+#: library/st_visualcomposer.php:753
+msgid "Countdown"
+msgstr ""
+
+#: library/st_visualcomposer.php:762
+msgid "Launch Date"
+msgstr ""
+
+#: library/st_visualcomposer.php:776
+msgid "Blogs"
+msgstr ""
+
+#: library/st_visualcomposer.php:785 library/st_visualcomposer.php:839
+#: library/st_visualcomposer.php:939 library/st_visualcomposer.php:1002
+#: library/st_visualcomposer.php:1052 library/st_visualcomposer.php:1134
+msgid "Columns"
+msgstr ""
+
+#: library/st_visualcomposer.php:795 library/st_visualcomposer.php:849
+#: library/st_visualcomposer.php:949 library/st_visualcomposer.php:1012
+#: library/st_visualcomposer.php:1062 library/st_visualcomposer.php:1102
+msgid "Category"
+msgstr ""
+
+#: library/st_visualcomposer.php:804 library/st_visualcomposer.php:858
+#: library/st_visualcomposer.php:958 library/st_visualcomposer.php:1021
+#: library/st_visualcomposer.php:1071 library/st_visualcomposer.php:1111
+#: library/st_visualcomposer.php:1144 library/st_visualcomposer.php:1175
+#: library/widgets/posts.php:32
+msgid "Number to display"
+msgstr ""
+
+#: library/st_visualcomposer.php:818
+msgid "Portfolios"
+msgstr ""
+
+#: library/st_visualcomposer.php:867
+msgid "Remove Space"
+msgstr ""
+
+#: library/st_visualcomposer.php:879 library/st_visualcomposer.php:967
+msgid "Show Filter"
+msgstr ""
+
+#: library/st_visualcomposer.php:891
+msgid "Show Load More"
+msgstr ""
+
+#: library/st_visualcomposer.php:918
+msgid "Services"
+msgstr ""
+
+#: library/st_visualcomposer.php:993
+msgid "Teams"
+msgstr ""
+
+#: library/st_visualcomposer.php:1043
+msgid "Testimonials"
+msgstr ""
+
+#: library/st_visualcomposer.php:1093
+msgid "Testimonials Slider"
+msgstr ""
+
+#: library/st_visualcomposer.php:1125
+msgid "Clients"
+msgstr ""
+
+#: library/st_visualcomposer.php:1166
+msgid "Clients Slider"
+msgstr ""
+
+#: library/st_widgets.php:157
+msgid "All Categories"
+msgstr ""
+
+#: library/st_woocommerce.php:62
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:335
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:338
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:353
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:358
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:363
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:368
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:378
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:383
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:388
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:393
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:399
+#: library/vendor/tgm/class-tgm-plugin-activation.php:3034
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:400
+#: library/vendor/tgm/class-tgm-plugin-activation.php:2837
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:524
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:525
+msgid "Update Required"
+msgstr ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:639
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:833
+#: library/vendor/tgm/class-tgm-plugin-activation.php:3443
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:940
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:940
+#: library/vendor/tgm/class-tgm-plugin-activation.php:943
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:943
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:1121
+#: library/vendor/tgm/class-tgm-plugin-activation.php:2833
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:1886
+#, php-format
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:2172
+msgid "Required"
+msgstr ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:2175
+msgid "Recommended"
+msgstr ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:2191
+msgid "WordPress Repository"
+msgstr ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:2194
+msgid "External Source"
+msgstr ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:2197
+msgid "Pre-Packaged"
+msgstr ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:2214
+msgid "Not Installed"
+msgstr ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:2218
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:2220
+msgid "Active"
+msgstr ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:2226
+msgid "Required Update not Available"
+msgstr ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:2229
+msgid "Requires Update"
+msgstr ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:2232
+msgid "Update recommended"
+msgstr ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:2240
+#, php-format
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:2285
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:2288
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:2291
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:2294
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:2376
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:2384
+msgid "Installed version:"
+msgstr ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:2392
+msgid "Minimum required version:"
+msgstr ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:2404
+msgid "Available version:"
+msgstr ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:2427
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:2441
+msgid "Plugin"
+msgstr ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:2442
+msgid "Source"
+msgstr ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:2443
+msgid "Type"
+msgstr ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:2447
+msgid "Version"
+msgstr ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:2448
+msgid "Status"
+msgstr ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:2496
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:2500
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:2505
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:2575
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:2608
+msgid "Install"
+msgstr ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:2614
+msgid "Update"
+msgstr ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:2617
+msgid "Activate"
+msgstr ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:2648
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:2650
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:2686
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:2688
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:2793
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:2819
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:3033
+msgid "Plugin activation failed."
+msgstr ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:3367
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:3369
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:3370
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:3374
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:3375
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:3375
+#: library/vendor/tgm/class-tgm-plugin-activation.php:3381
+msgid "Show Details"
+msgstr ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:3375
+#: library/vendor/tgm/class-tgm-plugin-activation.php:3381
+msgid "Hide Details"
+msgstr ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:3376
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:3377
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:3380
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:3381
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:3382
+msgid "All installations have been completed."
+msgstr ""
+
+#: library/vendor/tgm/class-tgm-plugin-activation.php:3383
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: library/vendor/updater/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr ""
+
+#: library/vendor/updater/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr ""
+
+#: library/vendor/updater/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr ""
+
+#: library/vendor/updater/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr ""
+
+#: library/widgets/contact.php:9
+msgid "Contact Info"
+msgstr ""
+
+#: library/widgets/contact.php:25
+msgid "Address"
+msgstr ""
+
+#: library/widgets/contact.php:30
+msgid "Phone"
+msgstr ""
+
+#: library/widgets/contact.php:35
+msgid "Fax"
+msgstr ""
+
+#: library/widgets/contact.php:40
+msgid "Email"
+msgstr ""
+
+#: library/widgets/posts.php:9
+msgid "Latest Posts"
+msgstr ""
+
+#: library/widgets/posts.php:26 library/widgets/services.php:26
+msgid "Categories"
+msgstr ""
+
+#: library/widgets/services.php:9
+msgid "Service List"
+msgstr ""
+
+#: parts/header-pagetitle.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: parts/loop-blog.php:23 parts/loop-search.php:12
+msgid "Continue Reading"
+msgstr ""
+
+#: parts/loop-none.php:6
+msgid ""
+"Sorry, nothing matched your search criteria. Please try using more general "
+"terms to get more results."
+msgstr ""
+
+#: parts/single-blog.php:19 parts/single-page.php:16
+#: parts/single-portfolio.php:8 parts/single-service.php:8
+msgid "Pages:"
+msgstr ""
+
+#: parts/single-blog.php:24 parts/single-page.php:21
+#: parts/single-portfolio.php:13 parts/single-service.php:13
+msgid "Edit Page"
+msgstr ""
+
+#: parts/single-blog.php:26
+msgid "Tags:"
+msgstr ""
+
+#: parts/single-blog.php:33
+msgid "About Author"
+msgstr ""
+
+#: vc_templates/st_portfolios.php:114
+msgid "Show More"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "BuiltPress"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://themeforest.net/user/SliceTheme"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Construction Theme for WordPress"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "SliceTheme"
+msgstr ""
